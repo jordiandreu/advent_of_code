@@ -1,0 +1,14 @@
+"""
+--- Day 0 ---
+"""
+
+
+test = 'day00/input_test.txt'
+data = 'day00/input_data.txt'
+
+
+if __name__ == '__main__':
+    print('test 1: ',)
+    print('test 2: ',)
+    print('puzzle 1: ',)
+    print('puzzle 2: ',)

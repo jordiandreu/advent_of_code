@@ -1,0 +1,25 @@
+{
+    "python.pythonPath": "${workspaceFolder}/venv/bin/python",
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.analysis.extraPaths": [
+        "src"
+    ],
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.envFile": "${workspaceFolder}/.env",
+    "sqltools.connections": [
+        {
+            "database": "be-main-db",
+            "driver": "PostgreSQL",
+            "name": "be-main-db",
+            "password": "randomone",
+            "port": 5432,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "psql-be-main-db"
+        }
+    ],
+}
