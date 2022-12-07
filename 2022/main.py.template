@@ -3,8 +3,8 @@
 """
 
 
-test = 'day00/input_test.txt'
-data = 'day00/input_data.txt'
+test = '2022/day00/input_test.txt'
+data = '2022/day00/input_data.txt'
 
 
 if __name__ == '__main__':
