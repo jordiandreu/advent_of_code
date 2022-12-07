@@ -2,8 +2,8 @@
 --- Day 1: Calorie Counting ---
 """
 
-data='day01/input_data.txt'
-test='day01/input_test.txt'
+data='2022/day01/input_data.txt'
+test='2022/day01/input_test.txt'
 
 
 def get_calories_list(filename=test):

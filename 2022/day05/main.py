@@ -4,8 +4,8 @@
 from copy import deepcopy
 
 
-test = 'day05/input_test.txt'
-data = 'day05/input_data.txt'
+test = '2022/day05/input_test.txt'
+data = '2022/day05/input_data.txt'
 
 
 def get_code(filename, header, puzzle):

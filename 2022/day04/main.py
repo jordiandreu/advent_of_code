@@ -2,8 +2,8 @@
 --- Day 4: Camp Cleanup ---
 """
 
-data = 'day04/input_data.txt'
-test = 'day04/input_test.txt'
+data = '2022/day04/input_data.txt'
+test = '2022/day04/input_test.txt'
 
 def get_set(str_range):
     a, b = str_range.split('-')

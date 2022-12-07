@@ -2,8 +2,8 @@
 --- Day 2: Rock Paper Scissors ---
 """
 
-data = 'day02/input_data.txt'
-test = 'day02/input_test.txt'
+data = '2022/day02/input_data.txt'
+test = '2022/day02/input_test.txt'
 
 mapp = {'A': 1,
         'B': 2,

@@ -2,8 +2,8 @@
 --- Day 3: Rucksack Reorganization ---
 """
 
-data = 'day03/input_data.txt'
-test = 'day03/input_test.txt'
+data = '2022/day03/input_data.txt'
+test = '2022/day03/input_test.txt'
 
 def numeric(c):
     # a-z: 1-26
